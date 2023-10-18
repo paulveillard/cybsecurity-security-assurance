@@ -62,7 +62,7 @@ So, what are some ways we can work towards improving security assurance and prep
 
 ### 1) Find a balanced approach
 
-
+As mentioned, with secure development and maintenance of products, organizations can do a great deal of work toward ensuring the product’s security. This should be considered in the evaluation, providing a more integrated and holistic approach. Assurance measures in the development cycle should be better recognized, and assessments should promote development assurance.
 
 
 
