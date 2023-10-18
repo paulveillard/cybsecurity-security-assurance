@@ -37,6 +37,11 @@ We summarize the key processes that should be part of every security assurance p
 
 In the remainder of this article, let’s take a closer look at what these individual processes entail.
 
+#### Security Hardening
+Security hardening describes the minimization of a system’s attack surface and proper configuration of security functions. The former may be achieved by disabling unnecessary components, removing superfluous system accounts, and closing any communication interfaces not in use – just to name a few. The latter configuration task focuses on security controls within the system itself and ensures that these can perform their functions as intended. This can include the configuration of host-based firewalls, intrusion detection/ prevention capabilities, or operating system controls, such as SELinux.
+
+> Security hardening is particularly important before a system is deployed, but should be verified regularly thereafter to confirm that the system still meets the defined hardening standard in the context of its current operating environment.
+
 
 
 
