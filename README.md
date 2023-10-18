@@ -58,6 +58,7 @@ Vulnerability management takes the results of the security tests performed and a
 
 
 ## Improving Security Assurance
+So, what are some ways we can work towards improving security assurance and prepare our systems for the threats to come in the future?
 
 
 ## `Techniques` - Table of Contents
