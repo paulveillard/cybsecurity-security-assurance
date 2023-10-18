@@ -44,6 +44,11 @@ Security hardening describes the minimization of a system’s attack surface and
 
 
 
+#### Security Testing
+Security testing aims to validate a system’s security posture by trying to identify any weaknesses or vulnerabilities possibly remaining after security hardening. This activity can take many different forms, depending on the complexity of the system under test and the available resources and skills. In its most basic form, it may comprise an automated vulnerability scan from the outside as well as an authenticated scan from the perspective of a user on the system. More advanced tests would go a step further by analyzing the system’s responses and reasoning about communication flows that may afford an attacker with a way into the system. Established best practices, such as the OWASP Top 10, can serve as a useful guide here to focus the test activities on the most common vulnerabilities. Beyond that, fully manual test could dig even deeper, for example, trying to discover vulnerabilities in the systems source code if available.
+
+> Similar to hardening of the system, security testing should also be performed before and during a systems operation. Regular, automated security scans can be a great tool to identify new vulnerabilities early on
+
 
 
 
