@@ -51,7 +51,8 @@ Security testing aims to validate a system’s security posture by trying to ide
 
 
 
-
+#### Vulnerability Management
+Vulnerability management takes the results of the security tests performed and attempts to mitigate them. This includes the analysis of each finding (Is this actually an issue in the context of this system?), prioritization (How big of an issue is it?), and mitigation (How can it be fixed?). While the last part should be fairly obvious, the first two are just as essential since it is important to take a risk-based approach to vulnerability mitigation. No system will ever be completely free of vulnerabilities, but the goal should be to avoid the ones that are critical and easily abusable
 
 
 
