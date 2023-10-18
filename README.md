@@ -15,3 +15,7 @@ An ongoing & curated collection of awesome software best practices and technique
 #### NIST SP 800-53
 
 > Ground for confidence that the set of intended security controls in an information system are effective in their application
+
+## Introduction
+
+Security assurance is an umbrella term for several processes aimed at ensuring individual system components can adequately protect themselves from attacks. Doing so requires not just a one-time effort, but actually spans the complete system lifecycle. After all, what is considered an acceptable security posture may change over time depending on, for example, newly emerging threats or changes to how the system itself is utilized.
