@@ -6,11 +6,13 @@ An ongoing & curated collection of awesome software best practices and technique
 
 # Theory
 
-# Techniques
+## `Theory` - Table of Contents
+- [Introduction](#introduction)
+- [What is Security Assurance ](#what-is-security-assurance)
 
-# Tools
 
-## What is Security Assurance?
+
+##  `What is Security Assurance? `
 
 ### Assurance
 
