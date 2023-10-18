@@ -65,6 +65,11 @@ So, what are some ways we can work towards improving security assurance and prep
 As mentioned, with secure development and maintenance of products, organizations can do a great deal of work toward ensuring the product’s security. This should be considered in the evaluation, providing a more integrated and holistic approach. Assurance measures in the development cycle should be better recognized, and assessments should promote development assurance.
 
 
+### 2) Collaborate and communicate with transparency
+To achieve a more balanced approach as described above, we need to see more communication and training so that developers and evaluators can understand each other better and work together to optimize the process. Software engineers often build in many layers and at high levels of complexity, meaning evaluators with little or no development background will be poorly equipped to evaluate the value of the developers' contributions. However, it’s important to remember that requirements like development expertise for evaluation will come with a higher cost.
+
+
+
 
 ## `Techniques` - Table of Contents
 
