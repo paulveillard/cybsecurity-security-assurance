@@ -15,7 +15,7 @@ An ongoing & curated collection of awesome software best practices and technique
 ##  `What is Security Assurance? `
 - A security assurance can be defined as the confidence that a system meets its security requirements and is resilient against security vulnerabilities and failures. The confidence indicated by the security assurance represents the level of trust we give to a system that is safe to use.
 
-### 
+### NIST & CNSSI Standards Definition
 
 #### CNSSI 4009
 
