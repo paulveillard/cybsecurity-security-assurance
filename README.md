@@ -72,7 +72,9 @@ Regardless of the approach, when undertaking evaluation, developers need to be t
 
 > If security assurance is to take a more holistic approach, we need to find a compromise that accommodates the needs of both the developers and the evaluators, while remaining efficient and cost-effective for the level of assurance required. We need to clarify what the roles and responsibilities should be in this process. Right now, confusion remains over who should do the testing or vulnerability analysis. But both sides must be involved – they just have different roles to play in the process.
 
+### 3)  Prepare for complexity with layers and diversity
 
+The sophisticated attackers we face today are constantly looking to inject vulnerabilities or malware into the supply chain. Unfortunately, many companies aren’t currently putting enough emphasis on supply chain security. While it isn’t cost-effective for most companies to build up their own supply chain for complex systems, leaving them reliant on third-party components or software, diversity can offer a work-around solution. You shouldn’t put trust in just one service or component, but you might be able to achieve sufficient security assurance by combining different security layers from different suppliers or nations – one from the US, one from China, for example. For your system to be broken, they then need to talk to each other – and most likely, they won't.
 
 
 ## `Techniques` - Table of Contents
