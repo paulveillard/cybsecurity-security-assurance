@@ -84,13 +84,21 @@ Newly emerging technology like cloud and virtualization – which will become co
 
 We mentioned multiple layers of encryption and security services earlier – we have to do the same thing here. You add a layer that can verify its integrity and protect itself on top, but you should have a clear understanding of what assumptions you’re making on what is underneath. If you understand this well, you can do it securely. The real problem will be if people are rushing too fast and don’t take the time to consider the impact and side effects it may have on their systems.
 
-### 4) 
+### 4) Pick an assurance level that suits you and your product
 
 It can all seem overwhelming, so it’s important to remember that an organization doesn’t always need to (and often shouldn’t) go for the highest possible assurance level from the start. It depends on the customer and the domain where the product is being deployed. If it’s in critical infrastructure, and it’s the networking equipment or the sensing or control capability, then you might not have a choice but to go for the higher level. Either way, you should ensure it's not negatively impacting the security of your critical infrastructure.
 
 The assurance level must also be meaningful and relevant for the customer. You don't want to buy equipment intended for high-security use and carry out low assurance, as potential (or even worse, exploited) vulnerabilities can tarnish your reputation. Of course, a company may choose a high assurance level in a premium product, to impress the customer or to leverage in marketing to instill confidence and trust. But in general, a better approach is to learn by doing – starting at the lower end, and ensuring you have requirements that can scale.
 
 A company looking at non-critical infrastructure might be looking to start with assurance level four, for example, which means reviewing source code. But looking at it, an evaluator might suggest that level two is a better place to start from, taking into account the effort and the cost involved. The higher levels can be considered later. Not only will the company learn for future development, they’ll also be in a better position to take on additional evaluation and assurance levels as needed.
+
+
+### 5) Leverage the technology
+There are always tradeoffs when it comes to security assurance, and one of the biggest is that if you want to do a thorough security inspection of any device or any software, it's costly – especially at the higher assurance level. The tools at hand are also costly because of a lack of automation – and now with virtualization, it's becoming even more complex.
+
+> The good news is that in recent years we’ve seen a surge of interest in vulnerability research. People are producing more advanced techniques to handle vulnerabilities, to find security vulnerabilities in firmware, in software and so on. We need to see more of this kind of research, as the results are what will enable us to introduce much more automation and leverage AI. These technologies will be crucial for handling vulnerabilities in increasingly complex systems, and making the security assurance process more cost-effective, efficient and scalable.
+
+
 
 ## `Techniques` - Table of Contents
 
