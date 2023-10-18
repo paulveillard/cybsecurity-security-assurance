@@ -68,6 +68,10 @@ As mentioned, with secure development and maintenance of products, organizations
 ### 2) Collaborate and communicate with transparency
 To achieve a more balanced approach as described above, we need to see more communication and training so that developers and evaluators can understand each other better and work together to optimize the process. Software engineers often build in many layers and at high levels of complexity, meaning evaluators with little or no development background will be poorly equipped to evaluate the value of the developers' contributions. However, it’s important to remember that requirements like development expertise for evaluation will come with a higher cost.
 
+Regardless of the approach, when undertaking evaluation, developers need to be transparent and communicative. Tell evaluators what you’re doing and how you’re doing it. Don’t try to create an alternative reality for auditing – if the evaluators offer suggestions for improvement, they want to improve your real processes and not artificial ones that have been submitted.
+
+> If security assurance is to take a more holistic approach, we need to find a compromise that accommodates the needs of both the developers and the evaluators, while remaining efficient and cost-effective for the level of assurance required. We need to clarify what the roles and responsibilities should be in this process. Right now, confusion remains over who should do the testing or vulnerability analysis. But both sides must be involved – they just have different roles to play in the process.
+
 
 
 
